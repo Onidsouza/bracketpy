@@ -8,6 +8,6 @@ setup(name='bracketpy',
       author='Henrique Souza',
       author_email='henrique.ams.souza@gmail.com',
       license='GNU General Public License v3.0',
-      install_requires=['tqdm']
+      install_requires=['tqdm'],
       packages=['bracketpy'],
       zip_safe=False)
